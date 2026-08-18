@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-okckfm.juragan89c.online/sitemap.xml
